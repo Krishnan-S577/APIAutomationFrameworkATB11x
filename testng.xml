@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="APIAutomationFrameworkATB11x">
         <classes>
-            <class name="com.testingacademy.Tests.Sample.TestIntSample">
+            <class name="com.testingacademy.Tests.E2E_Integration.TestIntegerationFlow1">
             </class>
         </classes>
     </test>
